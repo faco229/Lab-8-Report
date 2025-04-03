@@ -28,13 +28,20 @@ The final part involves creating a wireless remote. The HC-05 module should be w
 ---
 
 ## Results
+shown below is a screenshot of the app created on MIT App Inventor for this lab. It displays the programmed buttons.
 
+<p align="center">
+  <img src="" width="500">
+  <br>
+  <b>Figure 1:</b> MEASURING TRUE RESISTOR MEASUREMENTS
+</p>
 
 
 ---
 
 ## Discussion
 **Discussion Question 1: In Lab 6 we found out what was the minimum speed that will move the motors. What is the minimum speed that will move the complete car?**
+
 Minimum speed to move the car forward was 105 on Arduino IDE. We achieved this value by changing the “slow_speed” variable within our program. We tested several values but concluded on this one as the vehicle remained in motion the entire time. 
 
 
@@ -46,7 +53,9 @@ Minimum speed to move the car forward was 105 on Arduino IDE. We achieved this v
 
 
 **Citations**
+
 Copilot. (2025). Summary of the introduction, easy app development, and bluetooth. Retrieved from [Quinn’s conversation with Copilot].
+
 Copilot. (2025). Methods for Assembling and Controlling a SparkFun Robot Car Using App Inventor and Bluetooth. Retrieved from [Quinn’s conversation with Copilot].
 
 ---
