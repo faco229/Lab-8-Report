@@ -20,7 +20,7 @@ To begin, a computer capable of running Arduino IDE and Chrome Browser is requir
 The first part of the lab involves assembling and testing the robot. The wheels should be attached to the motors used in Lab 6, and the wheel/motor assembly must be connected to the chassis with careful alignment. The robot's movement—forward, backward, right, and left—should be verified by sending commands via serial communications using the Arduino IDE Serial Monitor. The battery pack should be positioned on the bottom of the robot to avoid contact with the floor when the binder clip is installed. It is important to determine the minimum speed required to move the complete car, considering the findings from Lab 6 regarding motor speed.
 
 <p align="center">
-  <img src="" width="500">
+  <img src="https://github.com/faco229/Lab-8-Report/blob/main/Completed%20Car.jpg" width="500">
   <br>
   <b>Figure 1:</b> Completed car build with Bluetooth connection to app
 </p>
