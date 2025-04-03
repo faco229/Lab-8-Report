@@ -114,6 +114,7 @@ Minimum speed to move the car forward was 105 on Arduino IDE. We achieved this v
 ## Conclusion
 
 
+This lab successfully demonstrated how to integrate hardware and software by building a functional Bluetooth-controlled robot car using the SparkFun kit and MIT App Inventor. Through hands-on assembly, programming, and wireless connectivity, we explored the fundamentals of mobile app development and embedded systems. Despite compatibility limitations with iOS, the Android-based app effectively communicated with the car via the HC-05 Bluetooth module, allowing real-time directional control. This project emphasized the importance of iterative testing and troubleshooting, as we adjusted code and hardware connections to optimize performance. Overall, the lab provided a practical introduction to mobile-driven robotics and reinforced key engineering skills in problem-solving and system integration.
 
 
 
@@ -122,6 +123,8 @@ Minimum speed to move the car forward was 105 on Arduino IDE. We achieved this v
 Copilot. (2025). Summary of the introduction, easy app development, and bluetooth. Retrieved from [Quinn’s conversation with Copilot].
 
 Copilot. (2025). Methods for Assembling and Controlling a SparkFun Robot Car Using App Inventor and Bluetooth. Retrieved from [Quinn’s conversation with Copilot].
+
+ChatGPT. (2025). Conclusion section for Lab 8 Report: Bluetooth-Controlled Robot Car using MIT App Inventor. OpenAI. https://chat.openai.com/
 
 ---
 
