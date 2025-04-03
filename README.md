@@ -116,6 +116,7 @@ Minimum speed to move the car forward was 105 on Arduino IDE. We achieved this v
 
 
 
+
 **Citations**
 
 Copilot. (2025). Summary of the introduction, easy app development, and bluetooth. Retrieved from [Quinn’s conversation with Copilot].
