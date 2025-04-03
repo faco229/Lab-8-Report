@@ -36,14 +36,14 @@ The final part involves creating a wireless remote. The HC-05 module should be w
 Shown below is a screenshot of the app created on MIT App Inventor for this lab. It displays the programmed buttons.
 
 <p align="center">
-  <img src="https://github.com/faco229/Lab-8-Report/blob/main/app%20ss.png" width="500">
+  <img src="https://github.com/faco229/Lab-8-Report/blob/main/app%20ss.png" width="400">
   <br>
   <b>Figure 2:</b> Screenshot of the app interface
 </p>
 
-It is important to note that the app was not entirely compatible IOS devices. The lab instructor was able to connect an Android device to ensure the designed app worked properly. 
+It is important to note that the app was not entirely compatible with IOS devices. The lab instructor was able to connect an Android device to ensure the designed app worked properly. 
 
-The app was coded on MIT App Inventor using various coding blocks shown below. In addition, this block method was used to connect the program, mobile device, and car all together. 
+The app was coded on MIT App Inventor using various coding blocks shown below. In addition, this block method was used to connect the program, mobile device, and car all together via bluetooth. 
 
 <p align="center">
   <img src="https://github.com/faco229/Lab-8-Report/blob/main/PROGRAMMINGBLOCKS.png" width="500">
